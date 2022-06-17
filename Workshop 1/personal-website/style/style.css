@@ -26,25 +26,6 @@
     left: 250px;
 }
 
-span.name {
-    color: yellow;
-    font-family: 'Roboto', sans-serif;
-    font-size: 50px;
-}
-
-span.name1 {
-    color: white;
-    font: optional;
-    font-size: 30px;
-    font-family: 'Smooch Sans', sans-serif;
-}
-
-span.last {
-    color: rgb(0, 255, 128);
-    font-family: 'Roboto', sans-serif;
-    font-size: 50px;
-}
-
 .cv {
     background-color: rgba(0, 0, 0, 0.589);
     color: rgb(255, 255, 255);
