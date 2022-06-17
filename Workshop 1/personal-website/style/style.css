@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.main {
+    display: grid;
+    height: 100vh;
+    background-image: url("../images/IMG_14.JPG");
+    background: cover;
+}
+
+.div {
+    background-color: rgba(0, 0, 0, 0.308);
+    color: aliceblue;
+    margin: auto;
+    height: 200px;
+    width: 500px;
+    padding: 57px;
+    border-radius: 20px;
+    position: relative;
+    left: 250px;
+}
+
+span.name {
+    color: yellow;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+span.name1 {
+    color: white;
+    font: optional;
+    font-size: 30px;
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+span.last {
+    color: rgb(0, 255, 128);
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+.cv {
+    background-color: rgba(0, 0, 0, 0.589);
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 120px;
+    border: 0px;
+    border-radius: 7px;
+    position: relative;
+    top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+.cv:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    /* transition-delay: .2s;
+    animation-delay: .2s; */
+}
