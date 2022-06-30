@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: rgb(235, 235, 112);
+    color: rgb(152, 86, 97);
+}
+
+.name{
+    background-color: rgb(152, 86, 97);
+    color: rgb(235, 235, 112);
+    margin: 20px;
+    padding: 20px;
+}
+
+.quotes{
+    margin: 20px;
+    padding: 20px;
+}
+
+.hobbies{
+    border: 5px;
+    margin: 20px;
+    padding: 20px;
+    border-style: dashed;
+    border-color: aquamarine;
+    color: rgb(152, 86, 97);
+    background-color: rgb(235, 235, 112);
+}
+
+.foods{
+    background-color: rgb(152, 86, 97);
+    color: rgb(235, 235, 112);
+    margin: 20px;
+    padding: 20px;
+}
+
+.food_list{
+    border: 5px;
+    margin: 20px;
+    padding: 20px;
+    border-style: solid;
+    border-color: aquamarine;
+    color: rgb(152, 86, 97);
+    background-color: rgb(235, 235, 112);
+}
+
+.website{
+    background-color: rgb(152, 86, 97);
+    color: rgb(235, 235, 112);
+    margin: 20px;
+    padding: 20px;
+}
+
+.website_list{
+    border: 5px;
+    margin: 20px;
+    padding: 20px;
+    border-style: solid;
+    border-color: aquamarine;
+    color: rgb(152, 86, 97);
+    background-color: rgb(235, 235, 112);
+}

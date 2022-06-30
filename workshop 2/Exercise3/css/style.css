@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    margin: 20px;
+    padding: 20px;
+    color: black;
+    /* color: rgb(152, 86, 97); */
+    /* color: rgb(235, 235,112); */
+    background-color: rgb(255, 255, 155);
+}
+
+.name{
+    color: aqua;
+}
+
+.education{
+    border: 5px;
+    border-style: solid;
+    border-color: yellow;
+    padding: 20px;
+}
+
+.uni{
+    border: 2px;
+    border-style: solid;
+    border-color: blue;
+    padding: 20px;
+    margin: 20px;
+}
+
+.work{
+    border: 5px;
+    border-style: solid;
+    border-color: yellow;
+    padding: 20px;
+    margin-top: 20px;   
+}
+
+#quotes{
+    font-style: italic;
+}
+
+.quotes{
+    font-style: italic;
+}
